@@ -1,0 +1,6 @@
+name = "nolaction-books"
+compatibility_date = "2025-06-01"
+
+# 静的HTMLサイト（Workerのコードなし・アセット配信のみ）
+[assets]
+directory = "./public"
