@@ -1,4 +1,4 @@
-name = "nolaction-books"
+name = "nolactionbooks"
 compatibility_date = "2025-06-01"
 
 # 静的HTMLサイト（Workerのコードなし・アセット配信のみ）
